@@ -11,3 +11,5 @@ local enviroment. The best solution is to save it to /usr/local/bin
 install requirements from requirmenet.txt file.
 
 Result will be saved to "currencies.json" file. You wil find it in app dict.
+
+Enjoy!
