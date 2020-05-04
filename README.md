@@ -3,7 +3,7 @@ Simple scraper app which is helping to collect currencies values from website
 
 ## Before start
 
-You need to download chromedriver from <a "href"="https://chromedriver.chromium.org/downloads">website</a> accurate file for your
+You need to download chromedriver from [website](https://chromedriver.chromium.org/downloads) accurate file for your
 local enviroment. The best solution is to save it to /usr/local/bin
 
 ### then
